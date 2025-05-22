@@ -20,11 +20,11 @@ I’m a passionate Fullstack Web Developer with over **5 years of experience** i
 
 **Styling & UI**
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,materialui&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,sass,tailwind,bootstrap,materialui&theme=dark)](https://skillicons.dev)
 
 **Tools & Others**
 
-[![My Skills](https://skillicons.dev/icons?i=git,github,docker,vite,webpack,vscode&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,github,docker,vite,webpack,figma,nodejs,postman&theme=dark)](https://skillicons.dev)
 
 ### Let's Connect
 
