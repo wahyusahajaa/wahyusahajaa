@@ -1,4 +1,4 @@
-## Hi! it’s me, Wahyu. 👋
+## Hi! 👋 it’s me, Wahyu
 
 <!-- ![Header](./images/github-header-image.png) -->
 
