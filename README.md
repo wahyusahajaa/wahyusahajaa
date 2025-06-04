@@ -1,6 +1,6 @@
-## Hi there! 👋
+## Hi! it’s me, Wahyu. 👋
 
-![Header](./images/github-header-image.png)
+<!-- ![Header](./images/github-header-image.png) -->
 
 I’m a passionate Fullstack Web Developer with over **5 years of experience** in building stable, scalable, and user-oriented web applications. My expertise spans both frontend and backend technologies, and I enjoy turning complex problems into elegant solutions.
 
@@ -10,6 +10,7 @@ I’m a passionate Fullstack Web Developer with over **5 years of experience** i
 - 🤝 Comfortable working in agile environments and collaborating with cross-functional teams.
 
 ### Tech Stack
+
 **Languages & Frameworks**
 
 [![My Skills](https://skillicons.dev/icons?i=php,laravel,go,react,nextjs,typescript,js,jquery&theme=dark)](https://skillicons.dev)
